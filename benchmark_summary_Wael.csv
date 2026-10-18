@@ -1,0 +1,5 @@
+computer_name,cpu,physical_cores,logical_processors,input_rows,repeats,average_execution_time_seconds,slowest_operation,slowest_operation_average_seconds
+Wael,"Intel64 Family 6 Model 151 Stepping 5, GenuineIntel",6,12,10000,3,0.0009919000052226086,grouped_aggregation,0.0004085999874708553
+Wael,"Intel64 Family 6 Model 151 Stepping 5, GenuineIntel",6,12,100000,3,0.0025709333325115344,grouped_aggregation,0.0013846999985010673
+Wael,"Intel64 Family 6 Model 151 Stepping 5, GenuineIntel",6,12,500000,3,0.009955199988326058,grouped_aggregation,0.005487499991431832
+Wael,"Intel64 Family 6 Model 151 Stepping 5, GenuineIntel",6,12,1000000,3,0.019878566653157275,grouped_aggregation,0.011065899986230457

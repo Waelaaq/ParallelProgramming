@@ -1,0 +1,9 @@
+computer_name: Wael
+os: Windows 11
+cpu: Intel64 Family 6 Model 151 Stepping 5, GenuineIntel
+physical_cores: 6
+logical_processors: 12
+csv_file: train.csv
+rows_loaded: 1000000
+repeats: 3
+input_sizes: 10000,100000,500000,1000000
